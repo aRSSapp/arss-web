@@ -14,7 +14,7 @@ It's an opportunity to utilise the latest Web tech stacks (e.g. React, Node, Kub
 
 ## Ideas
 
-* Register ARSS.APP domain (£11.23/yr from Namecheap.com)
+* Register ARSS.APP domain (~£11.23/yr from Namecheap.com)
 * Subscribe to your contacts’ websites and blogs
 * Use existing social circles (Twitter) to find content sources (e.g. scrape your Twitter following/followers)
 * Comment directly on post **if possible**.
