@@ -32,6 +32,13 @@ It's an opportunity to utilise the latest Web tech stacks (e.g. React, Node, Kub
 * Create account with wordpress.com for entry level
 * Other CMS available e.g. Hugo - _TODO: investigate!_
 
+## How to get involved?
+
+- Contribute to the project on [Github](https://github.com/aRSSapp)
+- [Join](https://join.slack.com/t/arssapp/shared_invite/enQtMzk2NzE1NzY2MDgxLWJmNjhlMzhhOWJiYjc0MzA2MWE1YjQ1NThjNTQ1MjIzNmFiMzc0NGI5MmUyOWU2ZDg1NjE0OTUyNzhjY2RmNDk) the conversation on [Slack](https://arssapp.slack.com/)
+- Crowd-source funding on Kickstarter
+- Raise global support on Angel.co
+
 ----
 
 _Reclaim your content._
