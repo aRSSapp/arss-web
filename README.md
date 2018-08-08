@@ -12,3 +12,26 @@ It's an open-source project, built by a community of people who will be using it
 
 It's an opportunity to utilise the latest Web tech stacks (e.g. React, Node, Kubernetes…) into a mobile/touch friendly experience that's also optimised for desktops as well.
 
+## Ideas
+
+* Register ARSS.APP domain (£11.23/yr from Namecheap.com)
+* Subscribe to your contacts’ websites and blogs
+* Use existing social circles (Twitter) to find content sources (e.g. scrape your Twitter following/followers)
+* Comment directly on post **if possible**.
+* Filter content by 
+	* Tags
+	* Categories
+	* Personal
+* Post directly from aRSS with secure authentication
+	* Encourage micro posts with oEmbed
+	* Link to external content (e.g. YouTube, Soundcloud, Github…)
+	* Attach media directly (photos, audio, video)
+	* Configure default categories, taxonomy
+	* Location awareness?
+* Share / repost directly to your own site
+* Create account with wordpress.com for entry level
+* Other CMS available e.g. Hugo - _TODO: investigate!_
+
+----
+
+_Reclaim your content._
