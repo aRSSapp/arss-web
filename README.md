@@ -32,6 +32,14 @@ It's an opportunity to utilise the latest Web tech stacks (e.g. React, Node, Kub
 * Create account with wordpress.com for entry level
 * Other CMS available e.g. Hugo - _TODO: investigate!_
 
+## Questions
+
+* Is it social if you can't react? 
+* You can reshare but how to respond? 
+* How do you decentralise comments?
+* Encourage blog comments but with tools to limit spam, hate, trolls (e.g. Facebook and Instagram ML replacing comments with snakes 🐍, Microsoft's machine learning algorithm)
+
+
 ## How to get involved?
 
 - Contribute to the project on [Github](https://github.com/aRSSapp)
