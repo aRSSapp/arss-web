@@ -8,11 +8,11 @@ It's an attempt to make it easier to decentralise your social circle's content w
 
 It's inspired by [Aral Balkin](https://twitter.com/aral)’s [blog to revive Really Simple Syndication (RSS)](https://ar.al/2018/06/29/reclaiming-rss/) and follows up on some similar thoughts by [Si](https://twitter.com/Si) from earlier in the year (_TODO: find tweet_).
 
-It's easy to remember with a bit of cheeky word-play s(pronounced "_arse app_") .
+It's easy to remember with a bit of cheeky word-play (pronounced "_arse app_") .
 
 It's an open-source project, built by a community of people who will be using it. 
 
-It's an opportunity to utilise the latest Web tech stacks (e.g. React, Node, Kubernetes…) into a mobile/touch friendly experience that's also optimised for desktops as well.
+It's an opportunity to utilise the latest Web tech stacks (e.g. React, Vue, Node, Kubernetes…) into a mobile/touch-friendly experience that's also optimised for desktops as well.
 
 ## Ideas
 
@@ -40,6 +40,13 @@ It's an opportunity to utilise the latest Web tech stacks (e.g. React, Node, Kub
 * You can reshare but how do you respond? 
 * How do you decentralise comments?
 * Encourage enabling blog comments but what are there tools to limit spam, hate, trolls? e.g. Facebook and Instagram Machine Learning mechanisms (replacing comments with snakes 🐍), Microsoft's machine learning algorithm
+
+## Who we need
+
+* Advocates for RSS and open standards
+* Active focus group to establish requirements
+* Designers (UX & UI)
+* Engineers
 
 ## How to get involved?
 
