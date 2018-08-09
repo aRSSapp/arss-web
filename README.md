@@ -34,11 +34,10 @@ It's an opportunity to utilise the latest Web tech stacks (e.g. React, Node, Kub
 
 ## Questions
 
-* Is it social if you can't react? 
-* You can reshare but how to respond? 
+* Is it social if you can't interact? 
+* You can reshare but how do you respond? 
 * How do you decentralise comments?
-* Encourage blog comments but with tools to limit spam, hate, trolls (e.g. Facebook and Instagram ML replacing comments with snakes 🐍, Microsoft's machine learning algorithm)
-
+* Encourage enabling blog comments but what are there tools to limit spam, hate, trolls? e.g. Facebook and Instagram Machine Learning mechanisms (replacing comments with snakes 🐍), Microsoft's machine learning algorithm
 
 ## How to get involved?
 
